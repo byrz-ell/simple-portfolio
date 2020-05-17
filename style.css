@@ -1,0 +1,52 @@
+html {
+   position: relative;
+}
+body {
+   margin-bottom: 170px;
+}
+
+.jumbotron {
+   background-image: linear-gradient(#255566, #0b717e)
+}
+.jumbotron img {
+   border: 3px solid rgba(92.6484139508189, 94.90950913813897, 119.78155619865979, 1)
+}
+
+.jumbotron p {
+   font-weight: bold;
+}
+
+hr {
+   width: 200px;
+   border-top: 3px solid #666;
+}
+
+.about {
+   margin-bottom: 100px;
+}
+
+.portfolio {
+   background-image: linear-gradient(#23aa8f,#007f86 );
+   margin-bottom: 100px;
+}
+
+.container form {
+   width: 70%;
+   margin: 0 auto;
+}
+
+.contact .thumbnail {
+   width: 100px;
+   height: 100px;
+}
+.contact .col-xs-6 .btn {
+   margin: 25px 0 25px;
+}
+footer {
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   background-color: rgba(66, 68, 90, 1);
+   height: 170px;
+   width: 100%;
+}
